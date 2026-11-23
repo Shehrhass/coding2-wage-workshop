@@ -21,9 +21,9 @@ uv sync --locked
 
 The [starting CSV](data/raw/cps_asec_2005_workshop.csv) comes with the clone.
 
-Open [workshop.ipynb](workshop.ipynb) in VS Code and select the
-workshop’s `.venv` kernel, or launch JupyterLab with `uv run jupyter lab`.
-Open the notebook at the repository root so the relative data path works.
+Open [code/workshop.ipynb](code/workshop.ipynb) in VS Code and select the
+workshop’s `.venv` kernel. For JupyterLab, run `uv run jupyter lab` from the
+repository root.
 
 ## Checkpoints
 
