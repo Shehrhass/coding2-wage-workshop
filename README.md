@@ -1,7 +1,6 @@
 # Coding 2 Wage Workshop
 
-1. How do expected weekly wages differ across education groups for workers of
-   the same age who work the same number of hours per week?
+1. How do expected weekly wages differ across education groups?
 2. Do those wage gaps vary with age?
 
 ## Data
