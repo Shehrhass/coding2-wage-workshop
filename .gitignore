@@ -5,5 +5,6 @@ __pycache__/
 .env
 .env.*
 
-data/raw/
+/data/raw/*
+!/data/raw/cps_asec_2005_workshop.csv
 summary_workshop_instructor.ipynb

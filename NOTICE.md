@@ -6,4 +6,4 @@ The repository’s MIT license applies to the workshop materials.
 
 The data are derived from the [US Census Bureau’s March 2005 Current Population
 Survey Annual Social and Economic Supplement](https://www.census.gov/data/datasets/2005/demo/cps/cps-asec-2005.html).
-The fetch script verifies the original public-use archive.
+The fetch script can regenerate the bundled extract from the verified public-use archive.
