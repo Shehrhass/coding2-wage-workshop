@@ -1,7 +1,7 @@
 [project]
 name = "coding2-wage-workshop"
 version = "0.1.0"
-description = "Coding 2 workshop on education, age and hourly wages"
+description = "Coding 2 workshop on education, age and weekly wages"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [

@@ -1,7 +1,8 @@
 # Coding 2 Wage Workshop
 
-1. How do hourly wages differ across education groups in this sample?
-2. Do these wage gaps vary with age?
+1. How do expected weekly wages differ across education groups for workers of
+   the same age who work the same number of hours per week?
+2. Do those wage gaps vary with age?
 
 ## Data
 
@@ -27,7 +28,7 @@ repository root.
 
 ## Checkpoints
 
-Checkpoint CSVs announced in class appear under `checkpoints/`. From the
+Checkpoint CSVs announced in class appear under `data/`. From the
 workshop folder, `git pull --ff-only` retrieves released files.
 
 ## AI Attribution
