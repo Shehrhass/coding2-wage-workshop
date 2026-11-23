@@ -1,0 +1,23 @@
+[project]
+name = "coding2-wage-workshop"
+version = "0.1.0"
+description = "Coding 2 workshop on education, age and hourly wages"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "gensim>=4.4,<5",
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.4,<5",
+    "matplotlib>=3.9.2",
+    "nbconvert>=7.16,<8",
+    "nbformat>=5.10.4",
+    "numpy>=2.1.2",
+    "pandas>=2.2.3",
+    "prompt-toolkit>=3.0.52,<4",
+    "scikit-learn>=1.5.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+]
+
+[tool.uv]
+package = false
